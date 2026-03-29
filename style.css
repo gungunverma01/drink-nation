@@ -42,7 +42,7 @@ html::-webkit-scrollbar-thumb{
 
 body{
     /* background: var(--bg); */
-    background: linear-gradient(to right,black,transparent), url(bg1.jpeg);
+    background: linear-gradient(to right,black,transparent), url(image/bg1.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
